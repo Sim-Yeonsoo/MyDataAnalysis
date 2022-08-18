@@ -29,7 +29,7 @@
 	  * EDA
 	  	* 'index' 컬럼 삭제
 	  	* 'type' 변수의 데이터타입이 문자 -> 라벨인코딩 진행
-	  	* 'density' 변수와 'quality' 간의 상관관계가 없어보임 -> 'density' 컬럼 모델링에서 제거
+	  	* 'density' 변수와 'quality' 간의 상관관계가 없어보임 -> 'density' 변수는 모델링에서 제거
 
 	  * 기본 모델 만들기
 	  	* ensemble 모델, LogisticRegression
