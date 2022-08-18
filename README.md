@@ -16,7 +16,12 @@
 	  
 ## [DACON 데이터 분석해 보기]
 
-### 🍷 와인 품질(Quality) 분류 경진대회
+### <center>🍷 와인 품질(Quality) 분류 경진대회</center>
+
+<center>
+![wine_pic.jpg](https://sim-yeonsoo.github.io/MyDataAnalysis/Wine_Quality/wine_pic.jpg)
+</center>
+
   * 데이터 참조 : https://dacon.io/competitions/open/235610/overview/description
   * 이미지 
   * 내용 :  와인 성분 데이터에 대해 EDA, 기본 모델을 만들어보고 모델 평가까지 해본다.
