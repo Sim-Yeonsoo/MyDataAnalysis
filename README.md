@@ -17,7 +17,7 @@
 ## [DACON 데이터 분석해 보기]
 
 <div align="center">
-	<h3 align="center"> 🍷 와인 품질(Quality) 분류 경진대회</h3>
+	<h2 align="center"> 🍷 와인 품질(Quality) 분류 경진대회</h3>
 	<img src="https://sim-yeonsoo.github.io/MyDataAnalysis/Wine_Quality/wine_pic.jpg" width=500>
 </div>
 <br>
