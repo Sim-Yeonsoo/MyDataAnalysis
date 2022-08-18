@@ -17,10 +17,10 @@
 ## [DACON 데이터 분석해 보기]
 
 <div align="center">
-	### <center> 🍷 와인 품질(Quality) 분류 경진대회</center>
-
-	<img src="https://sim-yeonsoo.github.io/MyDataAnalysis/Wine_Quality/wine_pic.jpg" width=500 css="text-align:center">
+	<h3 align="center"> 🍷 와인 품질(Quality) 분류 경진대회</h3>
+	<img src="https://sim-yeonsoo.github.io/MyDataAnalysis/Wine_Quality/wine_pic.jpg" width=500>
 </div>
+<br>
 
   * 데이터 참조 : https://dacon.io/competitions/open/235610/overview/description
   * 이미지 
