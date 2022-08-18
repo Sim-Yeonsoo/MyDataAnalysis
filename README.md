@@ -18,23 +18,22 @@
 
 <div align="center">
 	<h2 align="center"> 🍷 와인 품질(Quality) 분류 경진대회</h3>
-	<img src="https://sim-yeonsoo.github.io/MyDataAnalysis/Wine_Quality/wine_pic.jpg" width=500>
+	<img src="https://sim-yeonsoo.github.io/MyDataAnalysis/Wine_Quality/wine_pic.jpg" width=500> <br><br>
+	<p> 데이터 참조 : https://dacon.io/competitions/open/235610/overview/description</p>
 </div>
 <br>
-
-  * 데이터 참조 : https://dacon.io/competitions/open/235610/overview/description <br>
   
   * 내용 :  와인 성분 데이터에 대해 EDA, 기본 모델을 만들어보고 모델 평가까지 해본다.
     * [Ipynb](https://github.com/Sim-Yeonsoo/MyDataAnalysis/blob/main/Wine_Quality/Wine_Quality_EDA.ipynb) [html](https://sim-yeonsoo.github.io/MyDataAnalysis/Wine_Quality/Wine_Quality_EDA.html)
-	  * EDA
+	  * 🚩 EDA
 	  	* 'index' 컬럼 삭제
 	  	* 'type' 변수의 데이터타입이 문자 -> 라벨인코딩 진행
 	  	* 'density' 변수와 'quality' 간의 상관관계가 없어보임 -> 'density' 변수는 모델링에서 제거
 
-	  * 기본 모델 만들기
+	  * 🚩 기본 모델 만들기
 	  	* ensemble 모델, LogisticRegression
 	  	* RandomForestClassifier 선택
-	  * 모델 평가
+	  * 🚩 모델 평가
 	  	* 교차검증
   
   * ~~flask를 이용한 웹 서비스 구현~~
