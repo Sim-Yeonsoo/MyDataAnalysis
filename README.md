@@ -16,12 +16,9 @@
 	  
 ## [DACON 데이터 분석해 보기]
 
-### <center>🍷 와인 품질(Quality) 분류 경진대회</center>
+### <center> 🍷 와인 품질(Quality) 분류 경진대회</center>
 
-<center>
-![wine_pic.jpg]
-(https://sim-yeonsoo.github.io/MyDataAnalysis/Wine_Quality/wine_pic.jpg)
-</center>
+<img src="https://sim-yeonsoo.github.io/MyDataAnalysis/Wine_Quality/wine_pic.jpg" width=500 css="text-align:center">
 
   * 데이터 참조 : https://dacon.io/competitions/open/235610/overview/description
   * 이미지 
