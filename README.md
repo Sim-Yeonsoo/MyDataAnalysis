@@ -20,8 +20,8 @@
   * 데이터 참조 : https://dacon.io/competitions/open/235610/overview/description
   * 이미지 
   * 내용 :  와인 성분 데이터에 대해 EDA, 기본 모델을 만들어보고 모델 평가까지 해본다.
-    * IRIS EDA [html](https://github.com/Sim-Yeonsoo/MyDataAnalysis/blob/main/Wine_Quality_EDA.ipynb)
-	  * IRIS 기본 모델 만들기
-	  * IRIS 모델 평가
+    * EDA [Ipynb](https://github.com/Sim-Yeonsoo/MyDataAnalysis/blob/main/Wine_Quality_EDA.ipynb) [html](https://sim-yeonsoo.github.io/MyDataAnalysis/Wine_Quality_EDA.html)
+	  * 기본 모델 만들기
+	  * 모델 평가
   
   * flask를 이용한 웹 서비스 구현
